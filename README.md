@@ -1,7 +1,5 @@
 # System Desgin
 
----
-
 cloud - kisi aur ki machine 
 myLaptop can also be a server if i give a public ip to it and make it running 24x7
 
